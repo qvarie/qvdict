@@ -10,6 +10,7 @@
 
 ## 表語文字辞書データ- Datass of the Ideograms
 * [ユニコード絵文字の代替表記としてのヒエログリフ - Egyptian Hieroglyph as a Substitute for Unicode Emojis](https://github.com/qvarie/qvdict/blob/master/jp-hier_dict.txt)
+* [ユニコード絵文字の代替表記としてのヒッタイト文字 - Anatolian Hieroglyph as a Substitute for Unicode Emojis](https://github.com/qvarie/qvdict/blob/master/ja_anato-dict.txt)
 
 # 作成者-Author
 * 作成者:Qvarie
