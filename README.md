@@ -8,9 +8,12 @@
 ## ユニコード絵文字辞書データ - Datas of Unicode Emoji - Writing Systems
 * [カラー未対応ユニコード絵文字辞書データ / Non-color Emojis for Japanese](https://github.com/qvarie/qvdict/blob/master/ja-txt_emojidic.txt)
 
-## 表語文字辞書データ- Datass of the Ideograms
+## 表語文字辞書データ- Datas of the Ideograms
 * [ユニコード絵文字の代替表記としてのヒエログリフ - Egyptian Hieroglyph as a Substitute for Unicode Emojis](https://github.com/qvarie/qvdict/blob/master/jp-hier_dict.txt)
 * [ユニコード絵文字の代替表記としてのヒッタイト文字 - Anatolian Hieroglyph as a Substitute for Unicode Emojis](https://github.com/qvarie/qvdict/blob/master/ja_anato-dict.txt)
+
+## その他のデータ - Other Datas
+* [規範彝文元素記号 - Element symbols of Yi Script](https://github.com/qvarie/qvdict/blob/master/yi-elements.txt)
 
 # 作成者-Author
 * 作成者:Qvarie
