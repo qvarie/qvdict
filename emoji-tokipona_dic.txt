@@ -1,0 +1,19 @@
+// ユニコード絵文字――トキポナ辞書
+// Created by jan Kijupali
+
+😀 == pilin pona
+😄 == a a a
+😍 == kama olin
+😐 == sinpin lawa
+😑 == pilin ala
+🥵 == seli li lon
+🥶 == lete li lon
+🥴 == pilin nasa
+💩 == ko jaki
+👹 == jan monsuta
+👺 == monsuta pi Nijon
+👾 == monsuta 
+👻 == jan kon
+💥 == pakala
+💦 == telo tan selo
+🤟 == mi olin e sina
