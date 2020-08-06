@@ -3,20 +3,25 @@
 
 😀 == pilin pona
 😄 == a a a
+🤣 == kuntu
 😍 == kama olin
+🤩 == sikomo
 😐 == sinpin lawa
 😑 == pilin ala
 🥵 == seli li lon
 🥶 == lete li lon
 🥴 == pilin nasa
 💩 == ko jaki
+🤡 == wawajete
 👹 == jan monsuta
 👺 == monsuta pi Nijon
-👾 == monsuta 
 👻 == jan kon
+👾 == monsuta 
+🤖 == jan ilo
 💥 == pakala
 💦 == telo tan selo
 🤟 == mi olin e sina
+💕 == tu pilin
 ❤ == pilin loje
 🧡 == pilin loje jelo
 💛 == pilin jelo
@@ -26,6 +31,104 @@
 🤎 == pilin kapesi
 🖤 == pilin pimeja
 🤍 == pilin walo
+🕳 == lupa
+👌 == oke
+👍 == pona
+👎 == ike
+🦾 == luka ijo
+🦿 == noka ijo
+🦵 == noka
+🦶 == noka anpa
+👂 == kute
+👂 == kute ijo
+🫀 == pilin jan
+👀 == lukin
+👁 == oko
+👅 == nena uta
+👄 == uta
+🦷 == kiwen uta
+🦴 == kiwen sijelo
+🧒 == jan lili
+👦 == mije lili
+👧 == meli lili
+🧑 == jan
+👨 == mije
+👩 == meli
+🧓 == jan majuna
+👴 == mije majuna
+👵 == meli majuna
+🧜 == jan kala
+🧜‍♂ == mije jan kala
+🧜‍♀ == meli jan kala
+🎅 == mije Santa
+🤶 == meli Santa
+🧑‍🎄 == jan Santa
+🧞 == jan powe
+🧞‍♂ == mije powe
+🧞‍♀ == meli powe
+🧟 == jan moli
+🧟‍♂ == mije moli
+🧟‍♀ == meli moli
+👪 == mama
+🗣 == lawa toki
+🦝 == kijetesantakalu
+🦡 == kijetesantakalu pi lupa
+🐦 == waso
+🐧 == waso Antasika
+🪶 == lipu waso
+🐉 == akesi monsuta
+🐍 == akesi linja
+ 🦕== akesi suli
+🦖 == okepuma
+🐟 == kala
+🐛 == pipi
+🐜 == pipi lili
+🐞 == pipi meli
+🪱 == pipi linja
+💮 == kasi kule walo
+🌻 == kasi kule suno
+🌼 == kasi kule
+🌱 == lipu kasi lili
+🌲 == ma kasi
+🌳 == kasi suli
+🌴 == kasi
+🌾 == kasi pan
+🌿 == kasi anpa
+☘ == kasi tuli
+🍀 == kasi po
+🍁 == kasi wan
+🍂 == kasi tu
+🥭 == kili
+🍎 == kili loje
+🍏 == kili laso
+🍆 == kili unpa
+🌶 == kili namako
+🥚 == kiwen waso
+🍣 == kala lete
+🥮 == suwi mun
+🧂 == namako
+🧊 == kiwen telo
+🧱 == leko
+🪨 == kiwen
+🛖 == tomo lili
+🏘 == tomo mute
+🏠 == tomo
+🏢 == tomo sewi
+🏦 == esun mani
+🏨 == esun lape
+🏩 == esun lape li olin
+🏫 == tomo sona
+🏬 == esun suli
+⛰ == nena
+🗻 == nena Pusisan
+💍 == sike
+📖 == pu
+💴 == lipu mani Yen
+💶 == lipu mani Elo
+🔓 == open
+🧬 == linja 
+📛 == nimi
+#️⃣ == nanpa
 🔴 == sike loje
 🟠 == sile loje jelo
 🟡 == sike jelo
