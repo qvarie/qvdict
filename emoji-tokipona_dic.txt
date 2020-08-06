@@ -17,3 +17,30 @@
 💥 == pakala
 💦 == telo tan selo
 🤟 == mi olin e sina
+❤ == pilin loje
+🧡 == pilin loje jelo
+💛 == pilin jelo
+💚 == pilin laso jelo
+💙 == pilin laso
+💜 == pilin laso loje
+🤎 == pilin kapesi
+🖤 == pilin pimeja
+🤍 == pilin walo
+🔴 == sike loje
+🟠 == sile loje jelo
+🟡 == sike jelo
+🟢 == sike laso jelo
+🔵 == sike laso
+🟣 == sike laso loje
+🟤 == sike kapesi
+⚫ == sike pimeja
+⚪ == sike walo
+🟥 == loje
+🟧 == loje jelo
+🟨 == jelo
+🟩 == laso jelo
+🟦 == laso
+🟪 == laso loje
+🟫 == kapesi
+⬛ == pimeja
+⬜ == walo
