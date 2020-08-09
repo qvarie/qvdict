@@ -232,7 +232,7 @@
 📼 == sitelen tawa
 🪔 == ilo suno
 📖 == pu
-💴 == lipu mani Yen
+💴 == lipu mani Jen
 💶 == lipu mani Elo
 ✏ == ilo pi sitelen toki
 🔓 == open
