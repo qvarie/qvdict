@@ -1,5 +1,6 @@
 // ユニコード絵文字――トキポナ辞書
-// Created by jan Kijupali
+// This data created by jan Kijupali
+// ※ユニコードコンソーシアムのCLDR配列順。
 
 😀 == pilin pona
 😄 == a a a
@@ -137,6 +138,8 @@
 🏬 == esun suli
 ⛰ == nena
 🗻 == nena Pusisan
+🚗 == tomo tawa
+✈ == tomo  tawa kon
 🚀 == tomo tawa mun
 🌙 == mun
 ☀ == suno
@@ -149,12 +152,21 @@
 🩱 == len tawa telo
 👙 == len tawa telo tu
 💍 == sike
+📱 == ilo toki lili
+☎ == ilo toki
+📟 == ilo sona lili
+🖥 == ilo sona
+📹 == ilo sitelen tawa
 📼 == sitelen tawa
+🪔 == ilo suno
 📖 == pu
 💴 == lipu mani Yen
 💶 == lipu mani Elo
 🔓 == open
 🧬 == linja t.n.a.
+🛁 == tomo telo
+⚰ == poki moli
+🏧 == ilo esun mani
 🛐 == tomo nasin sewi
 📛 == nimi
 #️⃣ == nanpa
