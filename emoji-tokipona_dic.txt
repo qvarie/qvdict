@@ -112,6 +112,8 @@
 🧜 == jan kala
 ️🧜•♂️ == mije jan kala
 🧜•♀️ == meli jan kala
+💃 == meli pi tawa musi
+🕺 == mije pi tawa musi
 🧝 == jan Elu
 🧝‍♂️ == mije Elu
 🧝‍♀️ == meli Elu
@@ -236,14 +238,18 @@
 🍫 == suwi kapesi 
 🍬 == suwi kiwen lili
 🍭 == suwi
-🍶 == poki telo nasa
+☕ == telo seli
+🍵 == telo seli jelo
+🍶 == poki pi telo nasa
 🍷 == telo nasa 
 🍸 == tomo pi telo nasa
 🍺 == telo nasa pan
+🥃 == telo nasa wawa
 🧃 == poki pi telo kili suwi
 🧊 == kiwen telo
+🥄 == ilo moku
 🥢 == palisa tu pi moku
-🔪 == ilo kipisi pi seli moku 
+🔪 == ilo kipisi pi tomo moku 
 🌍 == ma Elopa en Apika
 🌎 == ma Amelika
 🌏 == ma Asija en Oselija
@@ -266,13 +272,19 @@
 🌁 == ma tomo pi kon linja
 🌃 == tenpo pimeja
 🏙 == ma tomo
+🌄 == tenpo suno sin
 ⛰️ == nena
+🌋 == nena suli
 🗻 == nena Pusisan
 🏖 == poka telo
 🏜 == ma telo ala
+🏝 == ma lon telo
 🚗 == tomo tawa
 🚑 == tomo tawa sona sijelo
 🚓 == tomo tawa utala pi ma tomo
+🏍 == tomo tawa sike tu pi musi
+🛵 == tomo tawa sike tu
+🚲 == sike tu
 🛣 == nasin tomo tawa
 🚨 == ilo suno utala pi ma tomo
 🚢 == tomo tawa telo
@@ -285,8 +297,13 @@
 ⏱️ == ilo tenpo pake
 ⏲️ == ilo tenpo sona
 🕰 == ilo tenpo
+🌑 == mun li pimeja ale
+🌕 == mun li sike ale
 🌙 == mun
 ☀️ == suno
+🪐 == mun lili pi sike
+⭐️ == mun lili
+🌟 == mun lili suno
 🌫 == kon linja
 🌬 == pana e kon
 ⚡️ == kalama wawa sewi
@@ -300,7 +317,9 @@
 🔥 == seli
 💧 == telo
 🌊 == telo suli
+🎄 == kasi pi tenpo pona Kolisu
 🎋 == palisa Tanapata
+🎑 == tenpo pona mun pi ma Nijon
 🎁 == ijo pana
 🧿 == lokon
 🖼 == sitelen
@@ -318,6 +337,7 @@
 👟 == len noka
 🥾 == len noka pi nena
 🥿 == len noka supa
+🩰 == len noka pi tawa musi
 👢 == len noka pi meli
 💍 == sike
 💎 == kiwen suno
@@ -332,7 +352,11 @@
 📱 == ilo toki lili
 ☎️ == ilo toki
 📟 == ilo sona lili
+💻 == ilo nanpa
 🖥 == ilo sona
+⌨ == supa sitelen pi ilo sona
+🖱 == soweli lili pi ilo nanpa
+🖲 == soweli lili pi ilo sona
 🎞 == palisa sitelen tawa
 📺 == ilo pi sitelen tawa
 📹 == ilo sitelen tawa
@@ -369,6 +393,9 @@
 ⚰ == poki pi jan moli
 🏧 == ilo esun mani
 🛐 == tomo nasin sewi
+🚹 == tomo telo pi mije
+🚺== tomo telo pi meli
+🚻 == tomo telo: meli en mije
 📛 == nimi
 #️⃣ == noka leko: nanpa
 🔟 == noka leko: nanpa luka luka
