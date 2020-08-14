@@ -146,12 +146,13 @@
 🦲 == linja lawa ala
 🐩 == soweli pi linja kon
 🦝 == kijetesantakalu
-🐱 == sinpin pi soweli pi noka pona
+🐱 == sinpin soweli pi noka pona
 🐈 == soweli pi noka pona
+🐴 == sinpin soweli anpa jan
 🐎 == soweli anpa jan
 🦄 == soweli anpa jan pi kiwen lawa
 🐪 == soweli nena
-🐫 == soweli nena tu
+🐫 == soweli pi nena tu
 🦒 == soweli pi lawa sewi
 🐘 == soweli pi nena linja
 🐹 == soweli lili
@@ -311,6 +312,7 @@
 🏯 == tomo lawa pi ma Nijon
 🏰 == tomo lawa
 🗼 == tomo palisa suli pi ma tomo Tokijo
+🗽 == meli sewi pi nasin pona
 ⛲ == sitelen telo
 🌁 == ma tomo pi kon linja
 🌃 == tenpo pimeja
@@ -418,11 +420,11 @@
 💍 == sike
 💎 == kiwen suno
 🔇 == kalama ala
-🔈 == ijo kalama
-🔉 == ijo kalama pi linja kalama
-🔊 == ijo kalama pi linja kalama mute
-📢 == ijo kalama suli
-📣 == ijo nasa pona
+🔈 == ilo kalama
+🔉 == ilo kalama pi linja kalama
+🔊 == ilo kalama pi linja kalama mute
+📢 == ilo kalama suli
+📣 == ilo nasa pona
 🎼 == lipu pi kalama musi
 🎵 == sitelen kalama musi
 🎶 == sitelen kalama musi mute
@@ -474,7 +476,7 @@
 🔧 == ilo pona
 ⚙️ == ilo
 🧰 == poki ilo mute
-🧬 == linja t.n.a.
+🧬 == linja D.N.A.
 🩸 == telo sijelo loje
 🛏 == supa lape
 🛋 == supa monsi linja en ilo suno
