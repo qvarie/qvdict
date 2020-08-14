@@ -15,10 +15,14 @@
 🥴 == pilin nasa
 🤓 == olin tawa tomo
 😢 == pana e telo oko
+😈 == sinpin pi kalama sewi pona
+👿 == sinpin pi kalama sewi
+💀 == sinpin kiwen sijelo
+☠ == moli
 💩 == ko jaki
 🤡 == wawajete
 👹 == jan monsuta
-👺 == monsuta pi Nijon
+👺 == jan monsuta pi ma Nijon
 👻 == jan kon
 👾 == monsuta 
 🤖 == jan ilo
@@ -47,6 +51,7 @@
 👂 == lupa kute
 🦻 == ilo kute namako
 👃 == nena lawa
+🧠 == insa lawa
 🫀 == ilo jan pi tawa pi telo loje
 🫁 == poki kon
 🦷 == kiwen uta
@@ -141,53 +146,109 @@
 🏃‍♀️ == meli pi musi sijelo
 👪 == kulupu mama
 🗣 == lawa toki
+👤 == sitelen pimeja pi jan
+👥 == sitelen pimeja pi jan sama
+👣 == sitelen noka pi jan
 🦰 == linja lawa loje
 🦳 == linja lawa walo
 🦲 == linja lawa ala
+🐵 == soweli jan
+🐒 == soweli jan
+🦍 == soweli jan wawa
+🦧 == soweli jan ma kasi
+🐶 == sinpin soweli tomo
+🐕 == soweli tomo
+🦮 == soweli tomo lawa
+🐕‍🦺 == soweli pona tawa
 🐩 == soweli pi linja kon
+🐺 == soweli alasa
+🦊 == soweli pi jan alasa
 🦝 == kijetesantakalu
 🐱 == sinpin soweli pi noka pona
 🐈 == soweli pi noka pona
+🦁 == soweli lawa ale
 🐴 == sinpin soweli anpa jan
 🐎 == soweli anpa jan
 🦄 == soweli anpa jan pi kiwen lawa
+🦌== soweli pi lawa pi nena palisa
+🦬  == soweli ma pi lawa pi nena palisa pi ma Mewika
+🐮 == sinpin soweli telo mama
+🐂 == soweli ma pi lawa pi nena palisa
+🐃 == soweli ma telo pi lawa pi nena palisa
+🐄 == soweli pi telo mama
+🐷 == sinpin soweli moku
+🐖 == soweli moku
+🐗 == soweli moku ma
+🐽 == nena lawa pi soweli moku
+🐏 == soweli mije len
+🐑 == soweli len
+🐐 == soweli nena pi lawa pi nena palisa
 🐪 == soweli nena
 🐫 == soweli pi nena tu
 🦒 == soweli pi lawa sewi
 🐘 == soweli pi nena linja
+🦣 == soweli suli pi nena linja
+🦏 == soweli suli pi kiwen lawa
+🦛 == soweli suli nasin telo
+🐭 == sinpin soweli lili
+🐁 == soweli lili walo
+🐀 == soweli lili walo pimeja
 🐹 == soweli lili
+🐰 == sinpin soweli lili pi linja kute
+🐇 == soweli lili pi linja kute
 🐿 == soweli lili pi linja
 🦔 == soweli lili pi linja kiwen
 🦇 == soweli luka waso
+🐻 == soweli wawa
+🐻‍❄️ == soweli wawa walo
 🐨 == soweli suwi lape pi kasi suli
 🦦 == soweli telo tawa
 🦨 == soweli pi kon monsi
 🦘 == soweli pi poki sinpin
 🦡 == kijetesantakalu lupa
+🐾 == sitelen noka pi soweli
+🦃 == waso pi tenpo suno pi moku mute
+🐔 == waso moku
+🐓 == waso mije moku
+🐤 == waso moku lili
+🐥 == sinpin waso moku lili
 🐦 == waso
-🐧 == waso Antasika
+🐧 == waso pi ma Antasika
+🕊 == waso pi ale li pona
+🦅 == waso wawa
+🦆 == waso tomo
+🦢 == waso telo walo
+🦉 == waso pi tenpo pimeja
+🦤 == waso pi ma Mowisi
 🪶 == lipu waso
 🦚 == waso kule mute
 🦜 == waso toki
 🐸 == akesi pi telo moli
-🐊 == akesi suli
+🐊 == akesi suli telo
 🦎 == akesi
+🐲 == sinpin akesi seli
 🐉 == akesi seli
 🐍 == akesi linja
-🦕== akesi suli majuna
+🦕== akesi suli
 🦖 == okepuma
+🐳 == kala soweli suli pi sitelen telo
+🐋 == kala soweli suli
 🐬 == kala soweli
+🦭 == soweli lawa ale telo
 🐟 == kala
 🐠 == kala pi ma seli
+🐡 == kala pi moli
 🦈 == kala pi kiwen uta palisa
+🐙 == kala ko pi noka luka tu wan
 🐚 == selo kala mani
 🐌 == pipi selo kala
-🦋 == pipi kule mute
+🦋 == pipi kule
 🐛 == pipi
 🐜 == pipi lili
 🐝 == pipi telo suwi
 🪲 == pipi selo
 🐞 == pipi meli
+🦗 == pipi lili kalama
 🪳 == pipi jaki
 🕷 == pipi pi linja pipi
 🕸 == linja pipi
@@ -196,11 +257,16 @@
 🪰 == pipi tawa lon kon
 🪱 == pipi linja
 🦠 == ijo pi pilin ike
+💐 == palisa kasi kule mute
+🌸 == kasi kule loje walo
 💮 == kasi kule walo
 🌹 == kasi kule loje
+🌺 == kasi kule pi ma seli
 🌻 == kasi kule suno
-🌼 == kasi kule
+🌼 == kasi kule walo
+🌷 == kasi kule pi len lawa
 🌱 == lipu kasi lili
+🪴 == poki kasi
 🌲 == kasi kiwen
 🌳 == kasi suli
 🌴 == kasi
@@ -216,8 +282,17 @@
 🥭 == kili pi loje jelo pi ma Tawi
 🍎 == kili
 🍏 == kili laso
+🍐 == kili laso pi kiwen waso
+🍑 == kili pilin
+🍓 == kili lili
+🫐 == kili lili mute
+🥝 == kili pi ma Nusilan
+🍒 == kili sama
 🥬 == kili kasi laso
 🍅 == kili loje
+🫒 == ko kili lili
+🥥 == kili telo waso
+🥑 == kili insa kiwen suli
 🍆 == kili unpa
 🥔 == kili ma
 🥕 == kili palisa
@@ -229,7 +304,7 @@
 🍞 == pan
 🥐 == pan mun
 🥖 == palisa pan
-🫓 == pan supa
+🫓 == pan sike lipu
 🥯 == pan insa
 🥞 == pan suwi mute
 🧇 == pan leko
@@ -254,6 +329,7 @@
 🥣 == poki en ilo moku
 🥗 == moku pi kili kasi laso
 🍿 == kili pini li pana e ko seli
+🧈 == ko jelo pi telo soweli
 🧂 == namako
 🍘 == pan kiwen
 🍙 == sike pan walo
@@ -271,6 +347,7 @@
 🍦 == ko suwi lete pi poki pan
 🍧 == suwi kiwen lete
 🍨 == ko suwi lete
+🍩 == pan sike insa ala
 🍪 == sike pan suwi
 🍰 == pan suwi walo
 🧁 == poki ko suwi
@@ -278,6 +355,9 @@
 🍫 == suwi kapesi 
 🍬 == suwi kiwen lili
 🍭 == suwi
+🍯 == poki pi telo pipi suwi
+🍼 == poki pi telo mama
+🥛 == telo walo
 ☕ == telo seli
 🍵 == telo seli jelo
 🍶 == poki pi telo nasa
@@ -318,12 +398,14 @@
 🌃 == tenpo pimeja
 🏙 == ma tomo
 🌄 == tenpo suno sin
+🎡 == ma musi
 ⛰️ == nena
 🌋 == nena suli
 🗻 == nena Pusisan
 🏖 == poka telo
 🏜 == ma seli pi telo ala
 🏝 == ma lon telo
+🏞 == ma kasi pi ma
 🚆 == tomo tawa pi linja
 🚗 == tomo tawa
 🚑 == tomo tawa sona sijelo
@@ -380,13 +462,50 @@
 🎋 == palisa Tanapata
 🎑 == tenpo pona mun pi ma Nijon
 🎁 == ijo pana
-🪄 == palisa pi wawa nasa
-🧿 == lokon
-🧸 == soweli lili Tesipeja
-🪅 == ijo Pinjata
+🏆 == poki kiwen suno jelo
+🏅 == sike kiwen suno pi musi utala
 🥇 == kiwen suno jelo
 🥈 == kiwen suno walo
 🥉 == kiwen suno loje jelo
+⚽ == sike musi noka
+⚾ == sike musi utala
+🥎 == sike musi utala wawa ala
+🏀 == sike musi utala poki
+🏐 == sike musi utala walo
+🏈 == sike musi noka ma Mewika
+🏉 == sike musi noka wawa
+🎾 == palisa musi utala en sike
+🎳 == polinpin
+🏏 == palisa musi utala
+🏑 == musi utala pi ma
+🏒 == musi utala pi kiwen telo
+🥍 == palisa musi utala lili
+🏓 == palisa musi utala supa
+🥊 == len luka musi utala
+🥋 == len musi utala walo
+🥅 == linja pini pi musi utala
+⛳ == lipu ma lon insa lupa
+🎣 == palisa alasa pi kala
+🎽 == len pi musi utala
+🎿 == palisa len noka pi ma ko lete
+🛷 == tomo tawa ko lete
+🥌 == kiwen musi utala
+🎯 == sike insa ilo utala palisa kasi
+🪀 == ijo musi pi linja
+🪁 == lipu ijo musi pi sewi
+🎱 == sike pimeja insa nanpa luka tu wan
+🔮 == sike kiwen suno pi wawa nasa
+🪄 == palisa pi wawa nasa
+🧿 == lokon
+🎮 == musi pi sitelen tawa
+🕹 == palisa musi pi sitelen tawa
+🎰 == ilo musi mani
+🎲 == leko musi
+🧩 == supa musi sona wan
+🧸 == soweli lili Tesipeja
+🪅 == ijo Pinjata
+🪆 == ilo musi mama
+🎭 == kalama musi toki
 🖼 == sitelen
 🧵 == linja len
 🧶 == sike linja len
@@ -461,6 +580,8 @@
 📄 == lipu toki
 💴 == lipu mani Jen
 💶 == lipu mani Elo
+✉ == lipu pana
+📧 == lipu pana E
 ✏ == ilo pi sitelen toki pi pana sona
 ✒ == ilo pi sitelen toki lawa
 🖋 == ilo pi sitelen toki pi sitelen
@@ -468,28 +589,35 @@
 🖌 == ilo pi sitelen toki pi linja soweli
 🖍 == ilo pi sitelen toki ko
 📝 == lipu toki en ilo pi sitelen toki
+📁 == kulupu lipu
+📂 == kulupu lipu open
+🗂 == kulupu lipu pi lipu lili mute
 ✂️ == tu lipu ilo
 🔓 == open
 🗡 == ilo kipisi
 🔫 == ilo utala
 🏹 == ilo alasa
-🔧 == ilo pona
+🔧 == ilo pona ilo
 ⚙️ == ilo
-🧰 == poki ilo mute
+🧰 == poki kepeken mute
 🧬 == linja D.N.A.
+💉 == ilo pona sijelo
 🩸 == telo sijelo loje
+💊 == moku lili
+🩹 == lipu pi pona pakala
 🛏 == supa lape
 🛋 == supa monsi linja en ilo suno
 🪑 == supa monsi
 🚽 == supa monsi pi tomo telo
 🚪 == lupa tomo
-🪞 == jasima
+🪞 == ilo jasima
 🚿 == ilo pi tomo telo
 🛁 == tomo telo
 🧼 == kiwen pi jaki ala
 🧽 == ko pi jaki ala
 🚬 == palisa kon seli
-⚰ == poki pi jan moli
+⚰ == poki jan moli
+🗿 == jan sewi kiwen
 🏧 == ilo esun mani
 ☣ == jaki ike pi soweli
 ☢️ == suno ike pi lukin ala
@@ -498,6 +626,7 @@
 🚺== tomo telo pi meli
 🚻 == tomo telo: meli en mije
 📛 == nimi
+©️ = pana wile ala
 #️⃣ == noka leko: nanpa
 🔟 == noka leko: nanpa luka luka
 🔴 == sike loje
