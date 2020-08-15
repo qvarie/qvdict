@@ -327,6 +327,7 @@
 🥐 == pan mun
 🥖 == palisa pan
 🫓 == pan sike lipu
+🥨 == moku pan lili
 🥯 == pan insa
 🥞 == pan suwi mute
 🧇 == pan leko
@@ -341,7 +342,7 @@
 🥪 == moku insa
 🌮 == mulapisu insa
 🌯 == palisa moku insa
-🫔 == paki moku insa
+🫔 == poki moku insa
 🥙 == supa moku insa
 🧆 == sike moku suweli
 🥚 == kiwen waso
@@ -355,8 +356,10 @@
 🧂 == namako
 🍘 == pan kiwen
 🍙 == sike pan walo
-🍜 == poki en pan palusi
-🍝 == pan palusi
+🍚 == moku walo
+🍛 == moku walo pi ko namako
+🍜 == pan palisa
+🍝 == pan linja
 🍢 == palisa moku kala
 🍣 == kala lete
 🦀 == kala kipisi kiwen
@@ -420,6 +423,8 @@
 🌃 == tenpo pimeja
 🏙 == ma tomo
 🌄 == tenpo suno sin
+🌉 == tomo palisa tawa
+♨ == ma telo seli
 🎡 == ma musi
 ⛰️ == nena
 🌋 == nena suli
@@ -452,6 +457,30 @@
 ⏱️ == ilo tenpo pake
 ⏲️ == ilo tenpo sona
 🕰 == ilo tenpo
+🕛 == tenpo luka luka tu
+🕧 == tenpo luka luka tu en luka luka luka luka luka luka
+🕐 == tenpo wan
+🕜 == tenpo wan en luka luka luka luka luka luka
+🕑 == tenpo tu
+🕝 == tenpo tu en luka luka luka luka luka luka
+🕒 == tenpo wan tu
+🕞 == tenpo wan tu en luka luka luka luka luka luka
+🕓 == tenpo tu tu 
+🕟 == tenpo tu tu en luka luka luka luka luka luka
+🕔 == tenpo luka 
+🕠 == tenpo luka en luka luka luka luka luka luka
+🕕 == tenpo luka wan
+🕡 == tenpo luka wan en luka luka luka luka luka luka
+🕖 == tenpo luka tu
+🕢 == tenpo luka tu en luka luka luka luka luka luka
+🕗 == tenpo luka wan tu
+🕣 == tenpo luka wan tu en luka luka luka luka luka luka
+🕘 == tenpo luka tu tu
+🕤 == tenpo luka tu tu en luka luka luka luka luka luka
+🕙 == tenpo luka luka
+🕥 == tenpo luka luka en luka luka luka luka luka luka
+🕚 == tenpo luka luka wan
+🕦 == tenpo luka luka wan en luka luka luka luka luka luka
 🌑 == mun li pimeja ale
 🌕 == mun li sike ale
 🌙 == mun
@@ -533,13 +562,14 @@
 🧵 == linja len
 🧶 == sike linja len
 👕 == len
+👖 == len noka sewi
 🧤 == len luka
 🧣 == len anpa lawa
 🧥 == len sijelo
 🧦 == len noka anpa
 👗 == len sike sijelo
-👘 == len pi Nijon
-🥻 == len meli Palata
+👘 == len pi ma Nijon
+🥻 == len pi meli Palata
 🩲 == len insa
 🩳 == len insa tawa lupa
 🩱 == len tawa telo
