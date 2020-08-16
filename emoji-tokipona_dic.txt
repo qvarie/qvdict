@@ -171,8 +171,8 @@
 🧛‍♂️ == mije pi moku telo sijelo loje
 🧛‍♀️ == meli pi moku telo sijelo loje
 🧜 == jan kala
-️🧜•♂️ == mije jan kala
-🧜•♀️ == meli jan kala
+🧜‍♂️ == mije jan kala
+🧜‍♀️ == meli jan kala
 🧝 == jan Elu
 🧝‍♂️ == mije Elu
 🧝‍♀️ == meli Elu
