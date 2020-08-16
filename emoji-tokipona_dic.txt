@@ -863,5 +863,5 @@
 🏴 == lipu ma pimeja
 🏳 == lipu ma walo
 🏳‍🌈 == lipu ma pi kule mute
-🏳•⚧️ == lipu ma tonsi
+🏳️‍⚧️ == lipu ma tonsi
 🇪🇺 == lipu ma: Elopa
