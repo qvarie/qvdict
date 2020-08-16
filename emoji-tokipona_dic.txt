@@ -2,11 +2,11 @@
 // This data created by jan Kijupali
 // ※ユニコードコンソーシアムのCLDR配列順。
 
-🏻 == selo pi kulupu Pipatiku nanpa 1-2
-🏼 == selo pi kulupu Pipatiku nanpa 3
-🏽 == selo pi kulupu Pipatiku nanpa 4
-🏾 == selo pi kulupu Pipatiku nanpa 5
-🏿 == selo pi kulupu Pipatiku nanpa 6
+🏻 == selo pi kulupu Pipasiku nanpa 1-2
+🏼 == selo pi kulupu Pipasiku nanpa 3
+🏽 == selo pi kulupu Pipasiku nanpa 4
+🏾 == selo pi kulupu Pipasiku nanpa 5
+🏿 == selo pi kulupu Pipasiku nanpa 6
 😀 == pilin pona
 😄 == a a a
 🤣 == kuntu
@@ -325,9 +325,9 @@
 🐲 == sinpin akesi seli
 🐉 == akesi seli
 🐍 == akesi linja
-🦕== akesi suli
+🦕 == akesi suli
 🦖 == okepuma
-🐳 == kala soweli suli pi sitelen telo
+🐳 == kala soweli suli pi telo sitelen
 🐋 == kala soweli suli
 🐬 == kala soweli
 🦭 == soweli kala
@@ -504,20 +504,48 @@
 🏭 == tomo pali suli
 🏯 == tomo lawa pi ma Nijon
 🏰 == tomo lawa
+💒 == kama wan
 🗼 == tomo palisa suli pi ma tomo Tokijo
 🗽 == meli sewi pi nasin pona
+⛪ == tomo nasin sewi Kolisu
+🕌 == tomo nasin sewi Silami
+🛕 == tomo nasin sewi Intu
+🕍 == tomo nasin sewi Juta
+⛩️ == tomo nasin sewi Sinto
+🕋 == tomo Kapa
 ⛲ == sitelen telo
+⛺ == len tomo
 🌁 == ma tomo pi kon linja
 🌃 == tenpo pimeja
 🏙 == ma tomo
 🌄 == tenpo suno sin
 🌉 == tomo palisa tawa
 ♨ == ma telo seli
+🎠 == soweli tawa ilo pi ma musi
 🎡 == ma musi
+🎢 == tomo tawa linja pi ma musi
+🎪 == len tomo musi
+🚃 == tomo tawa linja
 🚆 == tomo tawa pi linja
-🚗 == tomo tawa
+🚇 == tomo tawa linja anpa
+🚂 == tomo tawa linja insa kiwen seli 
+🚄 == tomo tawa linja wawa
+🚅 == tomo tawa linja pi nena sinpin
+🚈 == tomo tawa linja pona
+🚉 == tomo awen pi tomo tawa linja 
+🚊 == sinpin tomo tawa linja
+🚝 == tomo tawa linja wan
+🚞 == tomo tawa linja pi nena
+🚋 == tomo tawa linja pi ma tomo
+🚌 == tomo tawa pi jan mute
+🚍 == sinpin tomo tawa pi jan mute
+🚎 == tomo tawa pi jan mute sewi linja
+🚐 == tomo tawa lili pi jan mute
 🚑 == tomo tawa sona sijelo
+🚒 == tomo tawa utala seli
 🚓 == tomo tawa utala pi ma tomo
+🚔 == sinpin tomo tawa utala pi ma tomo
+🚗 == tomo tawa
 🏍 == tomo tawa sike tu pi musi
 🛵 == tomo tawa sike tu
 🚲 == sike tu
@@ -528,11 +556,18 @@
 🚨 == ilo suno utala pi ma tomo
 🚧 == pake
 ⚓️ == ilo awen pi tomo tawa telo
+🚤 == tomo tawa telo wawa
+🛳 == tomo tawa telo suli
+⛴️ == tawa tomo telo
+🛥 == tomo tawa telo ilo
 🚢 == tomo tawa telo
 ✈️ == tomo tawa kon
 🛩 == tomo tawa kon lili
+🪂 == len tawa kon anpa
 🚁 == tomo tawa kon pi palisa
+🛰 == ilo tawa mun
 🚀 == tomo tawa mun
+🛸 == sike tomo tawa mun
 ⌚️ == ilo tenpo luka
 ⏰️ == ilo tenpo kalama
 ⏱️ == ilo tenpo pake
@@ -728,10 +763,18 @@
 📙 == pu
 📚 == lipu mute
 📄 == lipu toki
-💴 == lipu mani Jen
-💶 == lipu mani Elo
+💰 == len poki mani
+🪙 == sike mani
+💴 == lipu mani pi Jen
+💵 == lipu mani pi Tala
+💶 == lipu mani pi Elo
+💷 == lipu mani pi Ponto
+💸 == lipu mani pi luka waso
+🧾 == lipu monsi esun
 ✉ == lipu pana
 📧 == lipu pana linluwi
+📦 == poki
+📮 == leko pi lipu pana
 ✏ == ilo pi sitelen toki pi pana sona
 ✒ == ilo pi sitelen toki lawa
 🖋 == ilo pi sitelen toki pi sitelen
@@ -783,6 +826,15 @@
 ☸️ == nasi sewi Puta
 ☯️ == suno li lon poka pimeja
 ✝️ == nasin sewi Kolisu
+☪️ == nasin sewi Silami
+🕎 == ilo Menola
+🎦 == tomo sitelen tawa
+♀️ == ijo sitelen meli
+♂️ == ijo sitelen mije
+⚧️️️️ == ijo sitelen tonsi
+♾️ == ijo sitelen ale
+💱 == pana esun
+💲 == mani Tala suli
 🚹 == tomo telo pi mije
 🚺== tomo telo pi meli
 🚻 == tomo telo: meli en mije
