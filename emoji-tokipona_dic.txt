@@ -154,13 +154,13 @@
 👼 == jan lili sewi
 🎅 == mije Santa
 🤶 == meli Santa
-🧑•🎄 == jan Santa
+🧑‍🎄 == jan Santa
 🦸 == jan utala pona sewi
-🦸•♂️ == mije utala pona sewi
-🦸•♀️ == meli utala pona sewi
+🦸‍♂️ == mije utala pona sewi
+🦸‍♀️ == meli utala pona sewi
 🦹 == jan utala ike sewi
-🦹•♂️ == mije utala ike sewi
-🦹•♀️ == meli utala ike sewi
+🦹‍♂️ == mije utala ike sewi
+🦹‍♀️ == meli utala ike sewi
 🧙 == jan pi wawa nasa
 🧙‍♂️ == mije pi wawa nasa
 🧙‍♀️ == meli pi wawa nasa
@@ -174,14 +174,14 @@
 ️🧜•♂️ == mije jan kala
 🧜•♀️ == meli jan kala
 🧝 == jan Elu
-🧝•♂️ == mije Elu
-🧝•♀️ == meli Elu
+🧝‍♂️ == mije Elu
+🧝‍♀️ == meli Elu
 🧞 == jan powe
-🧞•♂️ == mije powe
-🧞•♀️ == meli powe
+🧞‍♂️ == mije powe
+🧞‍♀️ == meli powe
 🧟 == jan moli
-🧟•♂️ == mije moli
-🧟•♀️ == meli moli
+🧟‍♂️ == mije moli
+🧟‍♀️ == meli moli
 🚶 == jan tawa
 🚶‍♂️ == mije tawa
 🚶‍♀️ == meli tawa
