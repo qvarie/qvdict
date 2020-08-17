@@ -660,8 +660,8 @@
 🛷 == tomo tawa ko lete
 🥌 == kiwen musi utala
 🎯 == sike insa ilo utala palisa kasi
-🪀 == ijo musi pi linja
-🪁 == lipu ijo musi pi sewi
+🪀 == ilo musi pi linja
+🪁 == lipu ilo musi pi sewi
 🎱 == sike pimeja insa nanpa luka tu wan
 🔮 == sike kiwen suno pi wawa nasa
 🪄 == palisa pi wawa nasa
@@ -841,7 +841,18 @@
 📛 == nimi
 ©️ = pana wile ala
 #️⃣ == noka leko: nanpa
-🔟 == noka leko: nanpa luka luka
+🔟 == kapa leko: nanpa luka luka
+🔠 == kapa pi nasin sitelen Lasina suli
+🔡 == kapa pi nasin sitelen Lasina lili
+🔢 == kapa pi nanpa
+🔣 == kapa pi sitelen mute
+🔤 == kapa pi nasin sitelen Lasina
+🆙 == kapa pi toki Inli "UP"
+🆚 == kapa pi toki Inli "VS"
+🈁 == kapa pi toki Nijon: "tomo ni"
+🈂 == kapa pi toki Nijon: "Sa"
+🈸 == kapa pi toki Nijon: "ijo Apuli"
+🈳 == kapa pi toki Nijon: "ma ala"
 🔴 == sike loje
 🟠 == sile loje jelo
 🟡 == sike jelo
@@ -860,6 +871,23 @@
 🟫 == kapesi
 ⬛️ == pimeja
 ⬜️ == walo
+◼ == leko pimeja
+◻ == leko walo
+◾ == leko pimeja lili
+◽ == leko walo lili
+▪ == leko pimeja lili lili
+◽ == leko walo lili lili
+🔶 == leko kiwen laso suli
+🔷 == leko kiwen laso suli
+🔸 == leko kiwen loje jelo lili
+🔹 == leko kiwen laso lili
+🔺 == poka tu wan loje pi tawa sewi
+🔻 == poka tu wan loje pi tawa anpa 
+💠 == leko kiwen insa sike lili
+🔘 == kapa
+🔳 == leko walo insa pimeja
+🔲 == leko pimeja insa walo
+🏁 == lipu ma pi pimeja mute en walo mute
 🏴 == lipu ma pimeja
 🏳 == lipu ma walo
 🏳‍🌈 == lipu ma pi kule mute
