@@ -14,7 +14,7 @@
 * [ユニコード絵文字の代替表記としてのヒエログリフ - Egyptian Hieroglyph as a Substitute for Unicode Emojis](https://github.com/qvarie/qvdict/blob/master/jp-hier_dict.txt)
 * [ユニコード絵文字の代替表記としてのヒッタイト文字 - Anatolian Hieroglyph as a Substitute for Unicode Emojis](https://github.com/qvarie/qvdict/blob/master/ja_anato-dict.txt)
 ### 絵ことば - Conscript
--[ユニコード絵文字―トキポナ語辞書データ](https://github.com/qvarie/qvdict/blob/master/emoji-tokipona_dic.txt)
+* [ユニコード絵文字―トキポナ語辞書データ - Data for Unicode Emojis – Toki Pona](https://github.com/qvarie/qvdict/blob/master/emoji-tokipona_dic.txt)
 
 ## その他のデータ - Other Datas
 * [規範彝文元素記号 - Element symbols of Yi Script](https://github.com/qvarie/qvdict/blob/master/yi-elements.txt)
