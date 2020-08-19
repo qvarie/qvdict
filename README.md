@@ -13,7 +13,7 @@
 ### 古代表語文字 - Anscient Ideographics
 * [ユニコード絵文字の代替表記としてのヒエログリフ - Egyptian Hieroglyph as a Substitute for Unicode Emojis](https://github.com/qvarie/qvdict/blob/master/jp-hier_dict.txt)
 * [ユニコード絵文字の代替表記としてのヒッタイト文字 - Anatolian Hieroglyph as a Substitute for Unicode Emojis](https://github.com/qvarie/qvdict/blob/master/ja_anato-dict.txt)
-### 絵ことば - Conscript
+### 絵ことば - Logographic Conlangs
 * [ユニコード絵文字―トキポナ語辞書データ - Data for Unicode Emojis – Toki Pona](https://github.com/qvarie/qvdict/blob/master/emoji-tokipona_dic.txt)
 
 ## その他のデータ - Other Datas
